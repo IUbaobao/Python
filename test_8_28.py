@@ -14,5 +14,15 @@ b=a.sum(1)
 print(b)
 
 
+class test2(test1):
+    def test(self):
+        print("继承")
+
+c=test2()
+d=c.sum(10)
+print(d)
+
+
+
 
 
