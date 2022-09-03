@@ -1,9 +1,6 @@
 # 类的定义
 class test1():
 
-    def __int__(self):
-        print("这是一个测试类")
-
     def sum(self,a):
         return a+1
 
@@ -21,6 +18,8 @@ class test2(test1):
 c=test2()
 d=c.sum(10)
 print(d)
+
+
 
 
 
