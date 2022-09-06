@@ -2,6 +2,7 @@ import random
 
 guess=random.randint(1,100)
 # print(guess)
+
 flag=0
 a = int(input("请猜数字"))
 while flag==0:
