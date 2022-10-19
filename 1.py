@@ -178,7 +178,7 @@ print(isPrime(100))
 # money=int(input("请输入你要发放的红包金额"))
 # num=int(input("请输入发放数量"))
 # print(FaHongBao(money,num))
-#
+
 
 
 
